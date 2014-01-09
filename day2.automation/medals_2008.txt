@@ -1,4 +1,4 @@
-2008	Afghanistan	1	0	0
+2008	Afghanistan	100	0	0
 2008	Algeria	1	1	0
 2008	Argentina	31	0	20
 2008	Armenia	6	0	0
